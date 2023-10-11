@@ -1,6 +1,6 @@
 # Patient Apllication
 
-A new Flutter project.
+This is a whole patient app that make the patient sign  up and put all his information and upload documents such as his identity card and his lab result and radiology result and upload a video and a audio and saving this data and access them any time and he has the ability to edit in it.
 
 ## Getting Started
 
